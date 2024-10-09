@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "112807153057",
+    "firebase_url": "https://lab2-e0a61-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lab2-e0a61",
+    "storage_bucket": "lab2-e0a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112807153057:android:e3ea1ac97e014c17ce4fe0",
+        "android_client_info": {
+          "package_name": "com.example.lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJTexIu6v0z0bqwg13b7TD4dSAtsjYLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
